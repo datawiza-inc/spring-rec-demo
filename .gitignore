@@ -1,0 +1,15 @@
+.git/*
+.idea
+*.iml
+node/
+target/
+.DS_Store
+
+log/
+**/.settings/**
+**/.classpath
+**/.project
+**/.factorypath
+**/.vscode
+**/.sts4-cache
+log/*
